@@ -6,7 +6,7 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 
-abstract class Vechile {
+public abstract class Vechile {
     String liecencPlate;
     String vechileType;
 

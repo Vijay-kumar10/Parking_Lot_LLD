@@ -10,6 +10,6 @@ public class BikeVechile extends Vechile{
 
     @Override
     public double calculateFee(int hourStayed) {
-        return 0;
+        return hourStayed*RATE;
     }
 }
