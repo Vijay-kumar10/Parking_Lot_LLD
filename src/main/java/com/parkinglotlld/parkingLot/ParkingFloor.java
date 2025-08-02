@@ -12,6 +12,7 @@ public class ParkingFloor {
     ParkingFloor(int floorNumber, int numberOfCarSpots ,int numberOfBikeSpots ) {
             this.floorNumber = floorNumber;
             this.spots = new ArrayList<>();
+
     //add Spots for car
     for(int i=0; i<numberOfCarSpots; i++) {
         this.spots.add(new CarParkingSpot(i+1));
