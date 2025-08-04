@@ -9,7 +9,7 @@ public class ParkingFloor {
     private int floorNumber;
 
     //constructor
-    ParkingFloor(int floorNumber, int numberOfCarSpots ,int numberOfBikeSpots ) {
+    public ParkingFloor(int floorNumber, int numberOfCarSpots, int numberOfBikeSpots) {
             this.floorNumber = floorNumber;
             this.spots = new ArrayList<>();
 
