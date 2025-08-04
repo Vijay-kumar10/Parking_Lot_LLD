@@ -9,9 +9,7 @@ A **console-based Parking Lot Management System** built using Java and Spring Bo
 - 🚙 Park a vehicle (Car, Bike, Truck)
 - 🅿️ Dynamic slot allocation
 - 🚪 Vacate parking slot
-- 💰 Fee calculation
-- 🧾 Receipt & summary generation (if implemented)
-- 🧠 Modular OOP-based structure
+- 💰 Fee calculation- 🧠 Modular OOP-based structure
 
 ---
 
@@ -38,7 +36,7 @@ src/
     └── java/
         └── com.parkinglotlld/
             ├── gates/
-            ├── mail/
+            ├── main/
             ├── parkingLot/
             ├── payment/
             ├── vechile/
@@ -54,10 +52,5 @@ src/
 ---
 
 ## 🎥 Demo Video
+https://github.com/user-attachments/assets/223c07a5-64ee-4724-a05f-8578614656bd
 
-🎬 Watch the full demo of the Parking Lot System on YouTube:
-
-🔗 👉 [▶️ Watch Demo Video](https://youtu.be/1V8MD8nIB9c)
-
-[![Watch Demo](https://img.youtube.com/vi/1V8MD8nIB9c/0.jpg)](https://youtu.be/1V8MD8nIB9c)
-s://youtu.be/1V8MD8nIB9c)
