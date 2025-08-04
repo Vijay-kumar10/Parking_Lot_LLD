@@ -1,6 +1,7 @@
 
-
+## 🎥 Demo Video
 https://github.com/user-attachments/assets/afbc7c41-a3c6-4591-b0ba-cd425008d727
+
 
 # 🚗 Parking Lot System (Console-Based Java LLD Project)
 
@@ -53,7 +54,5 @@ src/
 🔗 👉 [🔍 UML Diagram on LucidSpark](https://lucid.app/lucidspark/ae92de08-4bee-41e2-855e-ccadb1382477/edit?page=0_0#)  
 > 🔐 *This is a view-only link; login is **not required***  
 
----
 
-## 🎥 Demo Video
-https://github.com/user-attachments/assets/223c07a5-64ee-4724-a05f-8578614656bd
+---
