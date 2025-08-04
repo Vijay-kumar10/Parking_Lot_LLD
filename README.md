@@ -43,16 +43,21 @@ src/
             ├── payment/
             ├── vechile/
             └── ParkingLotLldApplication.java
+
 ## 🗂️ UML Class Diagram
 
 📌 Click below to **view the UML Class Diagram** for this project:
 
-🔗 [View UML Diagram on LucidSpark](https://lucid.app/lucidspark/ae92de08-4bee-41e2-855e-ccadb1382477/edit?page=0_0#)  
-> *(This is a view-only link; login is **not required**)*
+🔗 👉 [🔍 UML Diagram on LucidSpark](https://lucid.app/lucidspark/ae92de08-4bee-41e2-855e-ccadb1382477/edit?page=0_0#)  
+> 🔐 *This is a view-only link; login is **not required***  
 
 ---
 
 ## 🎥 Demo Video
 
-🎬 **Watch the full demo** of the Parking Lot System on YouTube:  
-🔗 [Watch Demo Video](https://youtu.be/1V8MD8nIB9c)
+🎬 Watch the full demo of the Parking Lot System on YouTube:
+
+🔗 👉 [▶️ Watch Demo Video](https://youtu.be/1V8MD8nIB9c)
+
+[![Watch Demo](https://img.youtube.com/vi/1V8MD8nIB9c/0.jpg)](https://youtu.be/1V8MD8nIB9c)
+s://youtu.be/1V8MD8nIB9c)
