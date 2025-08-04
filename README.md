@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/afbc7c41-a3c6-4591-b0ba-cd425008d727
+
 # 🚗 Parking Lot System (Console-Based Java LLD Project)
 
 A **console-based Parking Lot Management System** built using Java and Spring Boot, following clean **Object-Oriented Design**, **Low Level Design (LLD)** principles, and **design patterns**. It simulates vehicle entry, exit, slot assignment, and fee calculation.
